@@ -1,0 +1,1 @@
+Contains the download-and-run executable for the source code at https://github.com/sebastianhndelorenzo/Maxwell-Boltzmann-Simulation-Source-Code. Only works on Windows.
